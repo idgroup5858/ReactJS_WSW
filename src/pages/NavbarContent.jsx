@@ -14,7 +14,7 @@ function NavbarScreen() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <Nav.Link href="#home"><i className="bi bi-boxes me-2"></i>  WareHouse AI</Nav.Link>
+            <Nav.Link href="#home"><i className="bi bi-boxes me-2"></i>  SKLADCHI AI</Nav.Link>
            
             
              
